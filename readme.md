@@ -23,6 +23,8 @@ When you are reading this, you most probably already downloaded the library.
 To use it, include the `javaml-<version>.jar` in your classpath, as well as the 
 jars that are available in `lib/`.  
 
+See bellow how to get started with Maven.
+
 How to get started, code samples, tutorials on various tasks can be found
 at [http://java-ml.sourceforge.net](http://java-ml.sourceforge.net)
 
