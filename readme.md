@@ -20,8 +20,8 @@ Java-ML in a nutshell:
 ## How to get started
 
 When you are reading this, you most probably already downloaded the library. 
-To use it, include the ```javaml-<version>.jar``` in your classpath, as well as the 
-jars that are available in ```lib/```.  
+To use it, include the `javaml-<version>.jar` in your classpath, as well as the 
+jars that are available in `lib/`.  
 
 How to get started, code samples, tutorials on various tasks can be found
 at [http://java-ml.sourceforge.net](http://java-ml.sourceforge.net)
@@ -32,20 +32,20 @@ Java 6
 
 ## Dependencies
 
-Required libraries:
+**Required libraries:**
  - Apache Commons Math: used in some algorithms, version 1.2 [http://commons.apache.org/math/]()
  - Abeel Java Toolkit: used in some classes, version 2.11 is included. AJT is distributed under GNU LGPL 2 or later [http://sourceforge.net/projects/ajt/]()
  - Jama: used in some algorithms, version 1.0.3 http://math.nist.gov/javanumerics/jama/
 	
-Optional libraries:
+**Optional libraries:**
  - Weka: if you like to use algorithms from Weka, version 3.6.0	http://www.cs.waikato.ac.nz/ml/weka/
  - libsvm: if you like to use the libsvm algoriths, version 3.17 [http://www.csie.ntu.edu.tw/~cjlin/libsvm/](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
-## Build project
+## Build Maven project
 
  1. clone repository
- 2. install ajt dependency: ```mvn validate```
- 3. build project and run unit test: ```mvn clean install``` 
+ 2. install ajt dependency: `mvn validate`
+ 3. build project and run unit test: `mvn clean install`
 
 ## Contact
 
