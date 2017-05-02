@@ -33,13 +33,13 @@ Java 6
 ## Dependencies
 
 **Required libraries:**
- - Apache Commons Math: used in some algorithms, version 1.2 [http://commons.apache.org/math/]()
- - Abeel Java Toolkit: used in some classes, version 2.11 is included. AJT is distributed under GNU LGPL 2 or later [http://sourceforge.net/projects/ajt/]()
- - Jama: used in some algorithms, version 1.0.3 http://math.nist.gov/javanumerics/jama/
+ - [Apache Commons Math](http://commons.apache.org/math/): used in some algorithms, version 1.2
+ - [Abeel Java Toolkit](http://sourceforge.net/projects/ajt/): used in some classes, version 2.11 is included. AJT is distributed under GNU LGPL 2 or later
+ - [Jama](http://math.nist.gov/javanumerics/jama/): used in some algorithms, version 1.0.3 
 	
 **Optional libraries:**
- - Weka: if you like to use algorithms from Weka, version 3.6.0	http://www.cs.waikato.ac.nz/ml/weka/
- - libsvm: if you like to use the libsvm algoriths, version 3.17 [http://www.csie.ntu.edu.tw/~cjlin/libsvm/](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+ - [Weka](http://www.cs.waikato.ac.nz/ml/weka/): if you like to use algorithms from Weka, version 3.6.0	
+ - [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/): if you like to use the libsvm algoriths, version 3.17
 
 ## Build Maven project
 
@@ -49,9 +49,7 @@ Java 6
 
 ## Contact
 
-You can contact us by using the Sourceforge contact page:
-http://sourceforge.net/users/thomasabeel/
-or send an email to me
+You can contact us by using the [Sourceforge contact page](http://sourceforge.net/users/thomasabeel/) or send an email to me
 thomas@abeel.be
 
 
