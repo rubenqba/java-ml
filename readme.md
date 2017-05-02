@@ -33,23 +33,13 @@ Java 6
 ## Dependencies
 
 Required libraries:
- - Apache Commons Math: used in some algorithms, version 1.2
-	Apache Commons Math is distributed under Apache License 2.0
-	http://commons.apache.org/math/
- - Abeel Java Toolkit: used in some classes, version 2.11 is included
-	AJT is distributed under GNU LGPL 2 or later
-	http://sourceforge.net/projects/ajt/
- - Jama: used in some algorithms, version 1.0.3
-	Jama is distributed as public domain software 
-	http://math.nist.gov/javanumerics/jama/
+ - Apache Commons Math: used in some algorithms, version 1.2 [http://commons.apache.org/math/]()
+ - Abeel Java Toolkit: used in some classes, version 2.11 is included. AJT is distributed under GNU LGPL 2 or later [http://sourceforge.net/projects/ajt/]()
+ - Jama: used in some algorithms, version 1.0.3 http://math.nist.gov/javanumerics/jama/
 	
 Optional libraries:
- - Weka: if you like to use algorithms from Weka, version 3.6.0 
-    Weka is distributed under GNU GPL 2 or later
-	http://www.cs.waikato.ac.nz/ml/weka/
- - libsvm: if you like to use the libsvm algoriths, version 3.17
-	libSVM is distributed under the modified BSD license
-	[http://www.csie.ntu.edu.tw/~cjlin/libsvm/](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+ - Weka: if you like to use algorithms from Weka, version 3.6.0	http://www.cs.waikato.ac.nz/ml/weka/
+ - libsvm: if you like to use the libsvm algoriths, version 3.17 [http://www.csie.ntu.edu.tw/~cjlin/libsvm/](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 ## Build project
 
